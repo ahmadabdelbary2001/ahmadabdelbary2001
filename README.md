@@ -73,7 +73,6 @@ While I have a strong foundation in distributed systems (.NET, Java), I speciali
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="50" height="50" />
   <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="Turborepo" width="40" height="40" /> &nbsp;
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
