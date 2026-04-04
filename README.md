@@ -1,98 +1,111 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
-</div>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Ahmad Abdelbary  
-</h1>
+<p align="center">
+  <a href="http://jrohit.com.np" target="_blank">
+        <p align="center">
+    <img alt="Coding" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Hi+There%2C+I'm+Ahmad+Abdelbary+%F0%9F%91%8B;I'm+a+Software+Engineer+%26+Frontend+Specialist+%F0%9F%92%BB;Expert+in+Native+Cross-Platform+%26+Real-Time+Apps+%E2%9A%99%EF%B8%8F;" alt="Ahmad Abdelbary - Software Engineer" />
+</a>
+
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>  
 
 ## 👨🏻‍💻 About Me
 
-Hello! I'm Ahmad Abdelbary, a passionate Full-Stack Developer and Software Engineer specializing in building robust and scalable applications. With expertise in .NET, Java, Spring Boot, and Flutter, I focus on distributed systems and clean architecture to deliver innovative solutions. I am committed to writing clean, maintainable, and testable code, always eager to explore new technologies and contribute to impactful projects.
+Hello! I'm Ahmad Abdelbary, a passionate **Software Engineer** and **Frontend Specialist**, dedicated to building highly scalable, reliable, and high-performance cross-platform applications. My core expertise lies in fusing powerful **Native Rust** backends with dynamic **React/Next.js** user interfaces.
 
-## 🛠️ Skills & Technologies
+While I have a strong foundation in distributed systems (.NET, Java), I specialize in engineering highly interactive architectures and unified cross-platform interfaces. By leveraging modern patterns like **Turborepo**, **Feature-Sliced Design**, and **Native IPC**, I focus on bridging the gap between deep system mechanics and seamless user experiences to deliver scalable, impactful products.
+
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p> 
+
+## 🛠️ Skills
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+</p>
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🌐 Frontend & Desktop Development
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="40" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" /> &nbsp;
+  <img src="https://img.shields.io/badge/Zustand-%234A4A55.svg?style=flat-square&logo=react&logoColor=white" alt="Zustand" height="40" />
+</p>
 
 ### 🏗️ Backend Development
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-007ACC?style=for-the-badge&logo=nuget&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-%2300A98F?style=for-the-badge&logo=google&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40" /> &nbsp;
+  <img src="https://img.shields.io/badge/EF%20Core-007ACC?style=flat-square&logo=nuget&logoColor=white" alt="EF Core" height="40" /> &nbsp;
+  <img src="https://img.shields.io/badge/SignalR-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" /> &nbsp;
+  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6F00?style=flat-square&logo=rest&logoColor=white" alt="REST APIs" height="40" /> &nbsp;
+  <img src="https://img.shields.io/badge/gRPC-%2300A98F?style=flat-square&logo=google&logoColor=white" alt="gRPC" height="40" />
+</p>
 
-## 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### 📱 Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=android" alt="Android" width="40" height="40" />
+</p>
 
 ### 🗃️ Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40" height="40" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+</p>
 
 ### 🔧 Tools & Platforms
-<div align="center" style="margin: 10px 0;">
-  <!-- Version Control -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <!-- Containers & Orchestration -->
-<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <!-- IDEs -->
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
-  <!-- Notebooks & OS -->
-<a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <!-- Terminal -->
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
-  <!-- API Tools -->
-<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-<a href="https://swagger.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></a>
-  <!-- Build Tools -->
-<a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/></a>
-</div>
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="50" height="50" />
+  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="Turborepo" width="40" height="40" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
+</p>
 
 ### 📐 Architectures & Concepts
-- **Software Design**: Clean Architecture, DDD, MVC, MVVM, Microservices
+- **Frontend Architecture**: Turborepo (Monorepos), Feature-Sliced Design (FSD), State Management (Zustand)
+- **Software Design**: Clean Architecture, DDD, Specta Native IPC, Microservices
 - **Distributed Systems**: Load Balancing, gRPC, RMI, MPI, Apache ZooKeeper
-- **Testing**: xUnit, JUnit, Jest, Integration Testing
+
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p> 
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
+| **VLoc App (v1.2.3)** | Advanced cross-platform GPS spoofer with a custom Rust math engine (Jitters) and Specta IPC to manipulate native Windows/Android APIs. | Tauri v2, Rust, React, Specta, JNI | [View](https://github.com/ahmadabdelbary2001/VLoc-app) |
+| **PowerLetter for Puzzles** | A heavily scalable Monorepo platform powering 7+ simultaneous game modes, driven by a universal game-engine factory. | Next.js, Tauri, Zustand, Turborepo | [View](https://github.com/ahmadabdelbary2001/PowerLetter-for-Puzzles) |
+| **OmniDownloader** | High-performance media extraction desktop app. Integrates local HTTP-servers and Gemini AI for smart summarization. | Rust, Tauri, React, Gemini AI | [View](https://github.com/ahmadabdelbary2001/OmniDownloader) |
+| **HIAST Transportation Tracker** | Real-time administrative dashboard for managing fleets & users with tight Role-Based Access Control and WebSocket alerts. | React, TypeScript, SignalR, Vite | [View](https://github.com/ahmadabdelbary2001/HIAST.Transportation.UI) |
+| **Game Request Generator** | Advanced network simulator/automation app incorporating a built-in proxy-aware HTTP Repeater and DB cloud backup. | Tauri, Rust, Specta, Tailwind | [View](https://github.com/Ahmad-J-Bary/game-request-generator) |
 | **HR Leave Management** | Clean architecture implementation for HR operations | .NET 8, MediatR, REST API, EF Core | [View](https://github.com/ahmadabdelbary2001/HR.LeaveManagement.Clean) |
-| **Mediplus Healthcare** | Full-stack healthcare management system | Spring Boot, MySQL | [View](https://github.com/ahmadabdelbary2001/Mediplus-Spring-FullStack) |
-| **MVC-Banking-System** | A banking system developed using the MVC architectural pattern | Entity Framework, ASP.NET MVC, SQL Server | [View](https://github.com/ahmadabdelbary2001/MVC-Banking-System) |
-| **Flutter GPS Utility** | Mobile location services app | Flutter, Dart, Kotlin, Geolocation | [View](https://github.com/ahmadabdelbary2001/Flutter-GPS-Changer) |
-| **Distributed Search Engine** | Scalable search engine implementation | Java, Distributed Algorithms | [View](https://github.com/ahmadabdelbary2001/Distributed-Search-Engine) |
-| **Java-RMI-Chat-Application** | A classic example of distributed application development | Java, RMI | [View](https://github.com/ahmadabdelbary2001/Java-RMI-Chat-Application) |
-| **gRPC Multi-language** | Cross-language communication demo | gRPC, Java, Python, Go | [View](https://github.com/ahmadabdelbary2001/gRPC-multi-language-Java-Go-Python-) |
-| **Load-Balancing** | A project focused on implementing various load balancing strategies for distributed systems | Go | [View](https://github.com/ahmadabdelbary2001/Load-Balancing) |
+| **Distributed Search Engine** | Scalable search engine implementation demonstrating distributed algorithms capabilities | Java, Distributed Algorithms | [View](https://github.com/ahmadabdelbary2001/Distributed-Search-Engine) |
+
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p> 
 
 ## 🎯 My Goals
 
-Deepening expertise in distributed systems and cloud-native architectures while enhancing full-stack development skills for seamless user experiences.
+Deepening expertise in high-performance cross-platform development (Rust/Tauri) and frontend architectures (Turborepo), while continuing to build seamless, interactive user experiences.
 
-## 📈 GitHub Statistics
+<details open>
+<summary><h2> 📈 GitHub Statistics</h2></summary>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadabdelbary2001&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadabdelbary2001&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadabdelbary2001&theme=nord_dark) |
 | :-: | :-: | :-: |
@@ -104,8 +117,9 @@ Deepening expertise in distributed systems and cloud-native architectures while 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadabdelbary2001&show_icons=true&theme=radical)
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabdelbary2001&layout=compact&theme=radical)
+</details>
 
-## 📫How to reach me:
+## 📫 How to reach me:
 <p align="center">
   <a href="mailto:ahmadabdelbary2001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
